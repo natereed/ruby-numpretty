@@ -1,6 +1,6 @@
 # Numprettifier
 
-TODO: Write a gem description
+Gem for applying pretty-printing to large numbers.
 
 ## Installation
 
@@ -19,6 +19,8 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+
+I need to show some examples. Looking at the specs should be helpful.
 
 ## Contributing
 
